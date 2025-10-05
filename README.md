@@ -1,9 +1,7 @@
-# nasa_space_quest
+# NASA Space Quest
 Crews onboard the International Space Station have many unique opportunities! They witness breathtaking Earth views from the station’s cupola—known as “the window to the world...” 
 
-# NASA Astronaut Journey
-
-An immersive web-based astronaut training experience that simulates key aspects of space mission operations through interactive missions and 3D visualizations.
+Our project is an immersive web-based astronaut training experience that simulates key aspects of space mission operations through interactive missions and 3D visualizations.
 
 ![NASA Astronaut Training](https://img.shields.io/badge/NASA-Astronaut%20Training-blue?style=for-the-badge&logo=nasa)
 ![React](https://img.shields.io/badge/React-18.2-61DAFB?style=for-the-badge&logo=react)
